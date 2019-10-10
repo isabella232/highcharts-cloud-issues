@@ -1,2 +1,2 @@
 # highcharts-cloud-issues
-Used for issue tracking on Highcharts Cloud
+Used for issue tracking/feedback from Highcharts Cloud users
